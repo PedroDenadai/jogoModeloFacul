@@ -45,10 +45,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou sol
 
 ## Autor
 
-[Seu Nome]
-
-## Licença
-
-Este projeto é licenciado sob a [Sua Licença].
-
-
+Pedro Henrique Semensato Denadai
